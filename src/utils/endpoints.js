@@ -18,6 +18,23 @@ const endpoints = [
       'otomotif',
     ],
   },
+
+  {
+    primary: 'kompas',
+    paths: [
+      'news',
+      'bola',
+      'otomotif',
+      'tech',
+      'lifestyle',
+      'tren',
+      'opini',
+      'edukasi',
+      'money',
+      'lestari',
+    ],
+  },
+
   {
     primary: 'cnbc',
     paths: [
